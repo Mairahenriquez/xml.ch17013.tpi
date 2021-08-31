@@ -1,0 +1,27 @@
+﻿{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Sonsonate",
+				"habitantes": "1,000,000",
+				"altura": "500 MSNM",
+				"codigo_telefonico_area": "SS417",
+				"area_territorial": "SS456",
+				"_id": "2",
+				"_nombre": "Sonsonate"
+			}
+		],
+		"moneda": "dolar",
+		"idioma_oficial": "Español",
+		"idioma_autoctono": "Español",
+		"idioma_segundo": "English",
+		"_nombre": "El Salvador"
+	}
+}

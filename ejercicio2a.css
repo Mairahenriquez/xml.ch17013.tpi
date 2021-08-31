@@ -1,0 +1,62 @@
+/* ejercicio2a.css   CH17013  */
+pais {
+background-color:pink;
+font-size:1cm; 
+}
+departamento {
+background-color:white; 
+display:block;
+width:80%;
+margin:auto;
+text-align:center;
+} 
+cabecera {
+color:black; 
+display:block;
+} 
+habitantes {
+color:white; 
+display:block;
+background-color:grey; 
+}
+altura {
+color:black;
+display:block;
+background-color:yellow; 
+}
+moneda {
+color:yellow;
+display:block;
+background-color:black; 
+width:80%;
+margin:auto;
+text-align:center;
+
+}
+idioma_oficial {
+color:black;
+display:block;
+background-color:orange; 
+width:80%;
+margin:auto;
+text-align:center;
+
+}
+idioma_autoctono {
+color:yellow;
+display:block;
+background-color:blue; 
+width:80%;
+margin:auto;
+text-align:center;
+
+}
+idioma_segundo {
+color:yellow;
+display:block;
+background-color:brown; 
+width:80%;
+margin:auto;
+text-align:center;
+
+}

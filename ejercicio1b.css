@@ -1,0 +1,57 @@
+/* ejercicio1b.css   CH17013  */
+fichero {
+background-color:orange;
+}
+ficha {
+background-color:grey; 
+display:block;
+text-align:center;
+width:80%;
+margin:auto;
+padding-top:10px;
+} 
+nombre {
+color:yellow; 
+font-size:1cm; 
+display:inline;
+} 
+apellido {
+color:yellow; 
+font-size:1cm; 
+display:inline;
+}
+direccion {
+color:yellow;
+font-size:1cm; 
+display:block;
+}
+telefono {
+color:yellow;
+font-size:1cm; 
+display:block;
+}
+email {
+color:yellow;
+font-size:1cm; 
+display:block;
+}
+url {
+color:yellow;
+font-size:1cm; 
+display:block;
+}
+dui {
+color:yellow;
+font-size:1cm; 
+display:block;
+}
+isss {
+color:yellow;
+font-size:1cm; 
+display:block;
+}
+afp {
+color:yellow;
+font-size:1cm; 
+display:block;
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css" ?>
+<!-- ejercicio2b.xml  CH17013 -->
+<pais nombre="El Salvador">
+
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+    <residenci>Santo domingo</residenci>
+  </departamento>
+  
+  <departamento id="2" nombre="Sonsonate">
+    <cabecera>Sonsonate</cabecera>
+    <habitantes>1,000,000</habitantes>
+    <altura>500 MSNM</altura>
+    <codigo_telefonico_area>SS417</codigo_telefonico_area>
+    <area_territorial>SS456</area_territorial>
+    <residenci>Las palmeras</residenci>
+  </departamento>
+  
+  <departamento id="3" nombre="Santa Ana">
+    <cabecera>Santa Ana</cabecera>
+    <habitantes>2,000,000</habitantes>
+    <altura>800 MSNM</altura>
+    <codigo_telefonico_area>SA417</codigo_telefonico_area>
+    <area_territorial>SA456</area_territorial>
+    <residenci>Cerro verde</residenci>
+  </departamento>
+
+  <moneda>dolar</moneda>
+  <idioma_oficial>Español</idioma_oficial>
+  <idioma_autoctono>Español</idioma_autoctono>
+  <idioma_segundo>English</idioma_segundo>
+  
+</pais>

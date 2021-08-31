@@ -1,0 +1,53 @@
+.contenedor1 {
+    width: auto;
+    background: black;
+    height: 60px;
+}
+.cont {
+    width: auto;
+    background: pink;
+    height: 56px;
+    margin:auto;
+    font-weight: bold;
+}
+.bloque{
+    text-align:center;
+    margin:auto;
+    padding-top: 10px;
+    font-size: 30px;
+}
+a {
+    padding-left:8px;
+    text-decoration: none;
+}
+.m{
+    font-size:25px;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    padding-left: 0px;
+}
+.contenedor2 {
+    width:80%;
+    height: auto;
+    background:white;
+    margin: auto;
+    border-radius: 20px;
+    border: solid 1px gray;
+    margin-top: 10px;
+}
+ol {
+    text-overflow: clip;
+    font-weight: bold;
+}
+li {
+    text-decoration:none;
+    display: block;
+    padding-bottom: 20px;
+}
+.lista{
+    text-align:center;
+    padding-left: 0px;
+}
+    

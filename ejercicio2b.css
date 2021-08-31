@@ -1,0 +1,63 @@
+/* ejercicio2b.css   CH17013  */
+pais {
+background-color:pink;
+font-size:0.8cm; 
+color: black;
+text-align:center;
+}
+departamento {
+background-color:grey; 
+display:block;
+width:80%;
+margin:auto;
+text-align:center;
+border-top:solid 1px;
+} 
+cabecera {
+display:block;
+border-top:solid 1px;
+} 
+habitantes {
+display:block;
+border-top:solid 1px;
+}
+altura {
+display:block;
+border-top:solid 1px;
+}
+recidenci {
+display:block;
+border-top:solid 1px;
+}
+codigo_telefonico_area {
+display:block;
+border-top:solid 1px;
+}
+moneda {
+display:block;
+background-color:grey; 
+width:80%;
+margin:auto;
+border-top:solid 1px;
+}
+idioma_oficial {
+display:block;
+background-color:grey; 
+width:80%;
+margin:auto;
+border-top:solid 1px;
+}
+idioma_autoctono {
+display:block;
+background-color:grey; 
+width:80%;
+margin:auto;
+border-top:solid 1px;
+}
+idioma_segundo {
+display:block;
+background-color:grey; 
+width:80%;
+margin:auto;
+border-top:solid 1px;
+}

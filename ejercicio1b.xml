@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+<!-- ejercicio1b.xml  CH17013 -->
+<fichero>
+
+<ficha id="1" fechaingreso="1/1/2017">
+  <nombre>Luisa</nombre>
+  <apellido>Gavarrete</apellido>
+  <direccion>Sonsonate</direccion>
+  <telefono>79869898</telefono>
+  <email>gg17013@ues.edu.sv</email>
+  <url>facebook.com</url>
+  <dui>25987456-9</dui>
+  <isss>2569854879</isss>
+  <afp>5878965412</afp>
+</ficha>
+
+</fichero>

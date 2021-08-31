@@ -1,0 +1,14 @@
+﻿{
+	"fichero": {
+		"ficha": {
+			"nombre": "Antonio",
+			"apellido": "Barbero",
+			"direccion": "Calle de Los Andes, 45",
+			"telefono": "77889966",
+			"email": "ch17013@ues.edu.sv",
+			"url": "facebook.com",
+			"_id": "1",
+			"_fechaingreso": "1/11/2012"
+		}
+	}
+}
