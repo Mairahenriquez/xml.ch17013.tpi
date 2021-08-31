@@ -1,4 +1,4 @@
-﻿Conclusiones de la parte 2
+﻿Conclusiones
 
 1. Para los documentos bien formados xml es necesario seguir ciertas reglas para realizar su estructura entre ellas se compone de una etiqueta de inicio, de una 
     etiqueta de fin y de los datos comprendidos entre ambas etiquetas.
@@ -8,8 +8,7 @@
     
 3. Estos documentos admite un conjunto ilimitado de etiquetas, donde el  autor del documento es quien decide qué tipo de datos va a utilizar en cada etiqueta.
 
-Conclusiones de la parte 3
 
-1. Existen herramientas gratis en linea que nos facilitan la convercion de codigo xml a json entre ellas code beautify y xml viewer
+4. Existen herramientas gratis en linea que nos facilitan la convercion de codigo xml a json entre ellas code beautify y xml viewer
 
-2. Para dar  estilo a un documento xml, se hace de la misma forma en que se le da estilo a un archivo html. Por lo que su aplicacion se facilita al comprender el lenguaje html.
+5. Para dar  estilo a un documento xml, se hace de la misma forma en que se le da estilo a un archivo html. Por lo que su aplicacion se facilita al comprender el lenguaje html.
